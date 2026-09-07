@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Abdulrahman Farhan
 
-I am a Freelance Software Developer specializing in **Java, MySQL, JSF, and Jakarta EE**. 
+I am a Software Developer specializing in **Java, MySQL, JSF, and Jakarta EE**. 
 
 ### 💼 What I Do:
 * **Enterprise Solutions:** I specialize in customizing, deploying, and extending enterprise open-source solutions like Apache OFBiz and Openbravo POS for local businesses.
